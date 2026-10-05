@@ -1,0 +1,7 @@
+design,x0_m,y0_m,theta_urad,optimization_metric,notes
+Proposed robust joint,-0.0390755073,0.0119549665,105.707386,worst-state 5% lower-tail conditional mean,retained fixed-seed sample-average optimization result
+Equal-state mean joint,-0.0295457768,0.0149357509,60.0,equal-state mean collected power,retained fixed-seed sample-average optimization result
+Center-only robust,-0.03958562,0.01155312,100.0,worst-state 5% lower-tail conditional mean with theta fixed,ablation
+Divergence-only robust,-0.03,0.015,126.33756146,worst-state 5% lower-tail conditional mean with center fixed,ablation
+Bias-cancelled,-0.03,0.015,100.0,not optimized,deterministic bias-cancelled baseline
+Centroid-fixed,0.0,0.0,100.0,not optimized,array-centroid baseline
