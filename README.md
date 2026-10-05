@@ -1,0 +1,2 @@
+# Scenario-Robust-Beam-Design-for-Multi-Aperture-FSO-Links-Under-Pointing-Jitter-and-Blockage
+This work presents a scenario-robust beam design for multi-aperture FSO links under anisotropic pointing jitter and partial blockage. The method jointly optimizes beam-center offset and divergence to maximize the worst-state 5% lower-tail collected power, improving robustness while quantifying the trade-off with mean optical collection.
