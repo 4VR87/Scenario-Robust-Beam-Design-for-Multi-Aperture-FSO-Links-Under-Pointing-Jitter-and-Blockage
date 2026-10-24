@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-"""Reproduce simulation results and figures for the Optical Review manuscript.
-
 All reported quantities are generated from this Monte Carlo model. No experimental
-measurements are used. The code uses fixed seeds and writes raw CSV files.
+measurements are used. The code uses fixed seeds.
 """
 from __future__ import annotations
 import json, math, platform, sys
