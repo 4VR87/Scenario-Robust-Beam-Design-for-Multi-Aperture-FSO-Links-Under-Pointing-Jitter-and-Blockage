@@ -1,0 +1,67 @@
+pattern,design,category,original_state,adjacent,L5,mean_eta
+0-1,Equal-state mean joint,central,False,False,0.0711989485678072,0.17982738583361588
+0-1,Proposed robust joint,central,False,False,0.10905921755398079,0.20650414901467015
+0-1,Center-only robust,central,False,False,0.10988222223475691,0.2107374119532854
+0-2,Equal-state mean joint,central,False,False,0.07166032403233746,0.18016857204028736
+0-2,Proposed robust joint,central,False,False,0.10720297632866775,0.20465214168826085
+0-2,Center-only robust,central,False,False,0.10786246562577181,0.20880319452622606
+0-3,Equal-state mean joint,central,False,False,0.08587194784556237,0.20076888294297307
+0-3,Proposed robust joint,central,False,False,0.11652385629797847,0.20495833896211946
+0-3,Center-only robust,central,False,False,0.11837464065226232,0.20931831133059156
+0-4,Equal-state mean joint,central,False,False,0.0721653294320294,0.18114723808940017
+0-4,Proposed robust joint,central,False,False,0.09032662055212119,0.19371239354016492
+0-4,Center-only robust,central,False,False,0.08917597605933093,0.19584049885668714
+0-5,Equal-state mean joint,central,False,False,0.0719844941451617,0.1802864344960284
+0-5,Proposed robust joint,central,False,False,0.09285854295574834,0.19547057261076747
+0-5,Center-only robust,central,False,False,0.0919615648748489,0.19779541392166083
+0-6,Equal-state mean joint,central,False,False,0.08511065138245458,0.1998715392028565
+0-6,Proposed robust joint,central,False,False,0.11829273621930232,0.2075955450293833
+0-6,Center-only robust,central,False,False,0.12020621860363387,0.2120752892501336
+1-2,Equal-state mean joint,outer,True,True,0.04660747689626783,0.30866503005086865
+1-2,Proposed robust joint,outer,True,True,0.10139173920705999,0.2517806328231815
+1-2,Center-only robust,outer,True,True,0.1010619275142423,0.26269337424434575
+1-3,Equal-state mean joint,outer,False,False,0.12130246902363205,0.32860243733224587
+1-3,Proposed robust joint,outer,False,False,0.12875041444890314,0.2513165579314649
+1-3,Center-only robust,outer,False,False,0.13225355499270672,0.26243094859944166
+1-4,Equal-state mean joint,outer,False,False,0.09910663887370386,0.3086222091418943
+1-4,Proposed robust joint,outer,False,False,0.11063921468306366,0.2399146610130693
+1-4,Center-only robust,outer,False,False,0.11053703597602324,0.2487808195086942
+1-5,Equal-state mean joint,outer,False,False,0.09750102361279804,0.3064603312315463
+1-5,Proposed robust joint,outer,False,False,0.11207896507265631,0.24117505946727352
+1-5,Center-only robust,outer,False,False,0.11222006236954356,0.25015482494197916
+1-6,Equal-state mean joint,outer,False,True,0.10670462804186268,0.3275627805686603
+1-6,Proposed robust joint,outer,False,True,0.12476992700279535,0.25409189458946824
+1-6,Center-only robust,outer,False,True,0.12747679164882986,0.2652968359703817
+2-3,Equal-state mean joint,outer,False,True,0.10769676748952976,0.32784254886026537
+2-3,Proposed robust joint,outer,False,True,0.12079287862338822,0.24922974270032436
+2-3,Center-only robust,outer,False,True,0.1232374812633005,0.260216488672841
+2-4,Equal-state mean joint,outer,False,False,0.10085472630433696,0.30951880729752107
+2-4,Proposed robust joint,outer,False,False,0.11145256118141621,0.2387897645246775
+2-4,Center-only robust,outer,False,False,0.11145999808434533,0.24759808963766208
+2-5,Equal-state mean joint,outer,False,False,0.10049905348203937,0.30844730033275974
+2-5,Proposed robust joint,outer,False,False,0.11331231507052988,0.2405725105362639
+2-5,Center-only robust,outer,False,False,0.11353930167114466,0.2495442161976864
+2-6,Equal-state mean joint,outer,False,False,0.12168447136462479,0.3279415777240614
+2-6,Proposed robust joint,outer,False,False,0.1291830160586187,0.25248532605440643
+2-6,Center-only robust,outer,False,False,0.13255557959683184,0.26360894490056846
+3-4,Equal-state mean joint,outer,True,True,0.10981800007730719,0.32857807309006193
+3-4,Proposed robust joint,outer,True,True,0.10190633931024881,0.2379120234246525
+3-4,Center-only robust,outer,True,True,0.10163853250373178,0.24689195000744626
+3-5,Equal-state mean joint,outer,False,False,0.1189993071002198,0.327924123719577
+3-5,Proposed robust joint,outer,False,False,0.1086878572869327,0.2395262104117748
+3-5,Center-only robust,outer,False,False,0.10938889348680675,0.24867269047866283
+3-6,Equal-state mean joint,outer,False,False,0.16750077101544417,0.34785843296926744
+3-6,Proposed robust joint,outer,False,False,0.1378292678630642,0.25195338877294904
+3-6,Center-only robust,outer,False,False,0.1425980640376644,0.263285130449789
+4-5,Equal-state mean joint,outer,False,True,0.04717346683973445,0.3093746470908746
+4-5,Proposed robust joint,outer,False,True,0.06841658402581603,0.22932989017483602
+4-5,Center-only robust,outer,False,True,0.06406865066129167,0.2362936889008452
+4-6,Equal-state mean joint,outer,False,False,0.12181439260907795,0.3289855343593152
+4-6,Proposed robust joint,outer,False,False,0.10882807204269965,0.24124692449141455
+4-6,Center-only robust,outer,False,False,0.10925106283782149,0.25038807717112727
+5-6,Equal-state mean joint,outer,True,True,0.11002417529465972,0.32858070575663106
+5-6,Proposed robust joint,outer,True,True,0.10759495243608429,0.24343836188701948
+5-6,Center-only robust,outer,True,True,0.1076800698891079,0.2527613009454947
+random_adjacent,Equal-state mean joint,mixture,False,True,0.07642053874788245,0.3212728459326151
+random_adjacent,Proposed robust joint,mixture,False,True,0.09798662111075261,0.2438991209494611
+random_adjacent,Center-only robust,mixture,False,True,0.09672447627155577,0.253601609154625
